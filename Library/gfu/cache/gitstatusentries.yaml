@@ -13,699 +13,972 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-10-27T20:24:01.984-05:00
-  initializedAtString: 2020-10-27T20:24:01.984-05:00
+  lastUpdatedAtString: 2020-10-28T02:12:40.955-05:00
+  initializedAtString: 2020-10-28T00:02:13.084-05:00
   entries:
-  - path: .vscode/settings.json
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/.vscode/settings.json
-    projectPath: .vscode/settings.json
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\nikhi\New Unity Project\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\nikhi\New Unity Project\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\nikhi\New Unity Project\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\nikhi\New Unity Project\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\nikhi\New Unity Project\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\SourceAssetDB
+    fullPath: C:\Users\nikhi\New Unity Project\Library\SourceAssetDB
+    projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project.sln
+    fullPath: C:\Users\nikhi\New Unity Project\New Unity Project.sln
+    projectPath: New Unity Project.sln
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\__Backupscenes\0.backup
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityLockfile
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp\UnityTempFile-003b74f384a16fc4a8c0d9f8f1d632a3
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-003b74f384a16fc4a8c0d9f8f1d632a3
+    projectPath: Temp\UnityTempFile-003b74f384a16fc4a8c0d9f8f1d632a3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-01cf6c98ca196674aab6a711a4df3980
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-01cf6c98ca196674aab6a711a4df3980
+    projectPath: Temp\UnityTempFile-01cf6c98ca196674aab6a711a4df3980
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-04abf74923f2d694db2adae709a8c4ea
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-04abf74923f2d694db2adae709a8c4ea
+    projectPath: Temp\UnityTempFile-04abf74923f2d694db2adae709a8c4ea
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-08cb8906b037c04418d92e2a8e70d77d
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-08cb8906b037c04418d92e2a8e70d77d
+    projectPath: Temp\UnityTempFile-08cb8906b037c04418d92e2a8e70d77d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-0bf7d2c2b2a9ed7419e0125abc95d7bd
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-0bf7d2c2b2a9ed7419e0125abc95d7bd
+    projectPath: Temp\UnityTempFile-0bf7d2c2b2a9ed7419e0125abc95d7bd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-1125e72c8d0a1ce40ab46bf122b6b3ea
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-1125e72c8d0a1ce40ab46bf122b6b3ea
+    projectPath: Temp\UnityTempFile-1125e72c8d0a1ce40ab46bf122b6b3ea
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-1463dc4141fca8943ad6a1195e7ff105
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-1463dc4141fca8943ad6a1195e7ff105
+    projectPath: Temp\UnityTempFile-1463dc4141fca8943ad6a1195e7ff105
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-161156bfde86cc24cbe95df2c0b0918f
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-161156bfde86cc24cbe95df2c0b0918f
+    projectPath: Temp\UnityTempFile-161156bfde86cc24cbe95df2c0b0918f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-16dae63ac64a6b242b8e5c964883c716
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-16dae63ac64a6b242b8e5c964883c716
+    projectPath: Temp\UnityTempFile-16dae63ac64a6b242b8e5c964883c716
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-196e9315162c410489ea5481d412131a
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-196e9315162c410489ea5481d412131a
+    projectPath: Temp\UnityTempFile-196e9315162c410489ea5481d412131a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-1a2b0c7acab33e2418dec0bc14febc00
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-1a2b0c7acab33e2418dec0bc14febc00
+    projectPath: Temp\UnityTempFile-1a2b0c7acab33e2418dec0bc14febc00
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-1b38715ef489ef24d9c9234422d61804
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-1b38715ef489ef24d9c9234422d61804
+    projectPath: Temp\UnityTempFile-1b38715ef489ef24d9c9234422d61804
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-1c3ef90b61a626c4ea9eca9a0b0fe0e3
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-1c3ef90b61a626c4ea9eca9a0b0fe0e3
+    projectPath: Temp\UnityTempFile-1c3ef90b61a626c4ea9eca9a0b0fe0e3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-1d7140d4ed3c015468c5230fedfd8d71
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-1d7140d4ed3c015468c5230fedfd8d71
+    projectPath: Temp\UnityTempFile-1d7140d4ed3c015468c5230fedfd8d71
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-1f530ef499ca82e499b299f2e881010c
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-1f530ef499ca82e499b299f2e881010c
+    projectPath: Temp\UnityTempFile-1f530ef499ca82e499b299f2e881010c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-211b79bbd8db7f14481f78072d76f893
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-211b79bbd8db7f14481f78072d76f893
+    projectPath: Temp\UnityTempFile-211b79bbd8db7f14481f78072d76f893
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-2209e2fc995364e48a82cb1529c4b498
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-2209e2fc995364e48a82cb1529c4b498
+    projectPath: Temp\UnityTempFile-2209e2fc995364e48a82cb1529c4b498
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-22531344423331a44ad860f0ffd1fd25
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-22531344423331a44ad860f0ffd1fd25
+    projectPath: Temp\UnityTempFile-22531344423331a44ad860f0ffd1fd25
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-23079a1e638191a4fbf113b42ca55cee
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-23079a1e638191a4fbf113b42ca55cee
+    projectPath: Temp\UnityTempFile-23079a1e638191a4fbf113b42ca55cee
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-23221bc84ea48a24c8ed8e2449b613e7
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-23221bc84ea48a24c8ed8e2449b613e7
+    projectPath: Temp\UnityTempFile-23221bc84ea48a24c8ed8e2449b613e7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-2478a0f1ddac0f542a9fcbb9141268b5
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-2478a0f1ddac0f542a9fcbb9141268b5
+    projectPath: Temp\UnityTempFile-2478a0f1ddac0f542a9fcbb9141268b5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-24abbd6cb104fda4bb1e1433869e6b54
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-24abbd6cb104fda4bb1e1433869e6b54
+    projectPath: Temp\UnityTempFile-24abbd6cb104fda4bb1e1433869e6b54
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-258474be67409814b8a1831be887a5fa
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-258474be67409814b8a1831be887a5fa
+    projectPath: Temp\UnityTempFile-258474be67409814b8a1831be887a5fa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-26e55b5c1fff4794b9a480d9c54929d0
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-26e55b5c1fff4794b9a480d9c54929d0
+    projectPath: Temp\UnityTempFile-26e55b5c1fff4794b9a480d9c54929d0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-280ad14d87f783c4298ab57230c39c3b
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-280ad14d87f783c4298ab57230c39c3b
+    projectPath: Temp\UnityTempFile-280ad14d87f783c4298ab57230c39c3b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-283ade28df21b21408279e44eadcfc8b
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-283ade28df21b21408279e44eadcfc8b
+    projectPath: Temp\UnityTempFile-283ade28df21b21408279e44eadcfc8b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-2887ff2cf3b8ebf4f83aa4887d6b3e1c
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-2887ff2cf3b8ebf4f83aa4887d6b3e1c
+    projectPath: Temp\UnityTempFile-2887ff2cf3b8ebf4f83aa4887d6b3e1c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-2ae2796fa44777949a3cac5773bae6a8
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-2ae2796fa44777949a3cac5773bae6a8
+    projectPath: Temp\UnityTempFile-2ae2796fa44777949a3cac5773bae6a8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-2c247a09bdcdfe247b61ffefe6644778
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-2c247a09bdcdfe247b61ffefe6644778
+    projectPath: Temp\UnityTempFile-2c247a09bdcdfe247b61ffefe6644778
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-2f4ea99118a98dd43bfe402c2b20247c
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-2f4ea99118a98dd43bfe402c2b20247c
+    projectPath: Temp\UnityTempFile-2f4ea99118a98dd43bfe402c2b20247c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-31380d64c82e15f4d8f3a91075261d1f
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-31380d64c82e15f4d8f3a91075261d1f
+    projectPath: Temp\UnityTempFile-31380d64c82e15f4d8f3a91075261d1f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-32ede25ee18df644d8709322c2d3d8e0
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-32ede25ee18df644d8709322c2d3d8e0
+    projectPath: Temp\UnityTempFile-32ede25ee18df644d8709322c2d3d8e0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-362a642a97d910648bd1198ff8ead46b
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-362a642a97d910648bd1198ff8ead46b
+    projectPath: Temp\UnityTempFile-362a642a97d910648bd1198ff8ead46b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-36f850ca4d912e244a6856225d8ac146
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-36f850ca4d912e244a6856225d8ac146
+    projectPath: Temp\UnityTempFile-36f850ca4d912e244a6856225d8ac146
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-3900bf5ce1668ac43a6e2b5ea18d79ba
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-3900bf5ce1668ac43a6e2b5ea18d79ba
+    projectPath: Temp\UnityTempFile-3900bf5ce1668ac43a6e2b5ea18d79ba
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-3994ff55e89b2f44883bbe5b7df7bdd9
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-3994ff55e89b2f44883bbe5b7df7bdd9
+    projectPath: Temp\UnityTempFile-3994ff55e89b2f44883bbe5b7df7bdd9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-3a5b9df1e35663348b0a858f02fba90a
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-3a5b9df1e35663348b0a858f02fba90a
+    projectPath: Temp\UnityTempFile-3a5b9df1e35663348b0a858f02fba90a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-3b3f7056c7f52084cbaba15e9f73b1bd
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-3b3f7056c7f52084cbaba15e9f73b1bd
+    projectPath: Temp\UnityTempFile-3b3f7056c7f52084cbaba15e9f73b1bd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-3b5801a6fc7cb8e4cb54979b097fd237
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-3b5801a6fc7cb8e4cb54979b097fd237
+    projectPath: Temp\UnityTempFile-3b5801a6fc7cb8e4cb54979b097fd237
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-3d25cbc37d2428845a6f15ad14004585
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-3d25cbc37d2428845a6f15ad14004585
+    projectPath: Temp\UnityTempFile-3d25cbc37d2428845a6f15ad14004585
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-41fa1abe0daeb33479cf32bda53f870f
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-41fa1abe0daeb33479cf32bda53f870f
+    projectPath: Temp\UnityTempFile-41fa1abe0daeb33479cf32bda53f870f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-43568aa68d926ab4aa0a6e09aead7949
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-43568aa68d926ab4aa0a6e09aead7949
+    projectPath: Temp\UnityTempFile-43568aa68d926ab4aa0a6e09aead7949
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-45586e141102a674ebfd8a470769f230
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-45586e141102a674ebfd8a470769f230
+    projectPath: Temp\UnityTempFile-45586e141102a674ebfd8a470769f230
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-45ceb1ebaca95b9439107dfd16336f38
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-45ceb1ebaca95b9439107dfd16336f38
+    projectPath: Temp\UnityTempFile-45ceb1ebaca95b9439107dfd16336f38
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-48104b51024b0304fb2420d4b6e77d6c
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-48104b51024b0304fb2420d4b6e77d6c
+    projectPath: Temp\UnityTempFile-48104b51024b0304fb2420d4b6e77d6c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-48f4603a2ab89624fb03f7b9f567756e
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-48f4603a2ab89624fb03f7b9f567756e
+    projectPath: Temp\UnityTempFile-48f4603a2ab89624fb03f7b9f567756e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-49110943614bf2347acf4caafb1796bd
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-49110943614bf2347acf4caafb1796bd
+    projectPath: Temp\UnityTempFile-49110943614bf2347acf4caafb1796bd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-4cd25b7537a1dd443b66a88f770b301c
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-4cd25b7537a1dd443b66a88f770b301c
+    projectPath: Temp\UnityTempFile-4cd25b7537a1dd443b66a88f770b301c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-4d7d176864fcf4642af646d46dfcae64
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-4d7d176864fcf4642af646d46dfcae64
+    projectPath: Temp\UnityTempFile-4d7d176864fcf4642af646d46dfcae64
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-550cd3fb4b95cd24a97544b8bb732f56
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-550cd3fb4b95cd24a97544b8bb732f56
+    projectPath: Temp\UnityTempFile-550cd3fb4b95cd24a97544b8bb732f56
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-557bcbed39b2cb54bb9da6e6e640b184
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-557bcbed39b2cb54bb9da6e6e640b184
+    projectPath: Temp\UnityTempFile-557bcbed39b2cb54bb9da6e6e640b184
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-56006e77bdba60c4dbde2b7f0edf93d5
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-56006e77bdba60c4dbde2b7f0edf93d5
+    projectPath: Temp\UnityTempFile-56006e77bdba60c4dbde2b7f0edf93d5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-56863cc5f32172d4aad64c817be6e9d9
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-56863cc5f32172d4aad64c817be6e9d9
+    projectPath: Temp\UnityTempFile-56863cc5f32172d4aad64c817be6e9d9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-56c73c8982f9dad4aaaf18dfbfcf2f65
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-56c73c8982f9dad4aaaf18dfbfcf2f65
+    projectPath: Temp\UnityTempFile-56c73c8982f9dad4aaaf18dfbfcf2f65
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Background.meta
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Background.meta
-    projectPath: Assets/Background.meta
+  - path: Temp\UnityTempFile-58b996a808f18974aba3bae00d9f9bd7
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-58b996a808f18974aba3bae00d9f9bd7
+    projectPath: Temp\UnityTempFile-58b996a808f18974aba3bae00d9f9bd7
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Background/ground.png
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Background/ground.png
-    projectPath: Assets/Background/ground.png
+  - path: Temp\UnityTempFile-600fa93012da4da4caabec3f33921899
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-600fa93012da4da4caabec3f33921899
+    projectPath: Temp\UnityTempFile-600fa93012da4da4caabec3f33921899
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Background/ground.png.meta
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Background/ground.png.meta
-    projectPath: Assets/Background/ground.png.meta
+  - path: Temp\UnityTempFile-626e59879b1293d47a83d8c804388b73
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-626e59879b1293d47a83d8c804388b73
+    projectPath: Temp\UnityTempFile-626e59879b1293d47a83d8c804388b73
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Dracula.meta
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Dracula.meta
-    projectPath: Assets/Dracula.meta
+  - path: Temp\UnityTempFile-62f896273e216ab4d9d904b6d206f4da
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-62f896273e216ab4d9d904b6d206f4da
+    projectPath: Temp\UnityTempFile-62f896273e216ab4d9d904b6d206f4da
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Dracula/left1.png
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Dracula/left1.png
-    projectPath: Assets/Dracula/left1.png
+  - path: Temp\UnityTempFile-6737a8393c3869d48b67b8332609b778
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-6737a8393c3869d48b67b8332609b778
+    projectPath: Temp\UnityTempFile-6737a8393c3869d48b67b8332609b778
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Dracula/left1.png.meta
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Dracula/left1.png.meta
-    projectPath: Assets/Dracula/left1.png.meta
+  - path: Temp\UnityTempFile-674b8a8e9d2fe1b46b7bbae366d2af0f
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-674b8a8e9d2fe1b46b7bbae366d2af0f
+    projectPath: Temp\UnityTempFile-674b8a8e9d2fe1b46b7bbae366d2af0f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Dracula/left2.png
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Dracula/left2.png
-    projectPath: Assets/Dracula/left2.png
+  - path: Temp\UnityTempFile-68774de55261ceb4a8d215de739698df
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-68774de55261ceb4a8d215de739698df
+    projectPath: Temp\UnityTempFile-68774de55261ceb4a8d215de739698df
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Dracula/left2.png.meta
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Dracula/left2.png.meta
-    projectPath: Assets/Dracula/left2.png.meta
+  - path: Temp\UnityTempFile-69aac62e714cb6242adbe2daacf7be97
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-69aac62e714cb6242adbe2daacf7be97
+    projectPath: Temp\UnityTempFile-69aac62e714cb6242adbe2daacf7be97
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Dracula/left3.png
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Dracula/left3.png
-    projectPath: Assets/Dracula/left3.png
+  - path: Temp\UnityTempFile-6a03cb7dc4ef10248a94bedc581d1d15
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-6a03cb7dc4ef10248a94bedc581d1d15
+    projectPath: Temp\UnityTempFile-6a03cb7dc4ef10248a94bedc581d1d15
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Dracula/left3.png.meta
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Dracula/left3.png.meta
-    projectPath: Assets/Dracula/left3.png.meta
+  - path: Temp\UnityTempFile-6baaf63e534db7441bce4ff04ac84428
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-6baaf63e534db7441bce4ff04ac84428
+    projectPath: Temp\UnityTempFile-6baaf63e534db7441bce4ff04ac84428
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Dracula/Middle.png
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Dracula/Middle.png
-    projectPath: Assets/Dracula/Middle.png
+  - path: Temp\UnityTempFile-6bbfad7960ecaf34b95147bbd37d5d2c
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-6bbfad7960ecaf34b95147bbd37d5d2c
+    projectPath: Temp\UnityTempFile-6bbfad7960ecaf34b95147bbd37d5d2c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Dracula/Middle.png.meta
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Dracula/Middle.png.meta
-    projectPath: Assets/Dracula/Middle.png.meta
+  - path: Temp\UnityTempFile-6c1c793cd3ed8664eacc780bcfcd2243
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-6c1c793cd3ed8664eacc780bcfcd2243
+    projectPath: Temp\UnityTempFile-6c1c793cd3ed8664eacc780bcfcd2243
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Dracula/right1.png
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Dracula/right1.png
-    projectPath: Assets/Dracula/right1.png
+  - path: Temp\UnityTempFile-6c3beac38e9ee49488e5f196c09a341e
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-6c3beac38e9ee49488e5f196c09a341e
+    projectPath: Temp\UnityTempFile-6c3beac38e9ee49488e5f196c09a341e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Dracula/right1.png.meta
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Dracula/right1.png.meta
-    projectPath: Assets/Dracula/right1.png.meta
+  - path: Temp\UnityTempFile-6cb302b3b9d80a741908b274a299902c
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-6cb302b3b9d80a741908b274a299902c
+    projectPath: Temp\UnityTempFile-6cb302b3b9d80a741908b274a299902c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Dracula/right2.png
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Dracula/right2.png
-    projectPath: Assets/Dracula/right2.png
+  - path: Temp\UnityTempFile-6f96004c1565c0248abd099768f4c12e
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-6f96004c1565c0248abd099768f4c12e
+    projectPath: Temp\UnityTempFile-6f96004c1565c0248abd099768f4c12e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Dracula/right2.png.meta
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Dracula/right2.png.meta
-    projectPath: Assets/Dracula/right2.png.meta
+  - path: Temp\UnityTempFile-6fa713f37c2502e4ab2e9719fbae368e
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-6fa713f37c2502e4ab2e9719fbae368e
+    projectPath: Temp\UnityTempFile-6fa713f37c2502e4ab2e9719fbae368e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Dracula/right3.png
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Dracula/right3.png
-    projectPath: Assets/Dracula/right3.png
+  - path: Temp\UnityTempFile-738d4d3786ccce64f901ec9c7a75fda1
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-738d4d3786ccce64f901ec9c7a75fda1
+    projectPath: Temp\UnityTempFile-738d4d3786ccce64f901ec9c7a75fda1
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Dracula/right3.png.meta
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Dracula/right3.png.meta
-    projectPath: Assets/Dracula/right3.png.meta
+  - path: Temp\UnityTempFile-75c29f734e582174faed4e19bb11c174
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-75c29f734e582174faed4e19bb11c174
+    projectPath: Temp\UnityTempFile-75c29f734e582174faed4e19bb11c174
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Dracula/sadVamp.png
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Dracula/sadVamp.png
-    projectPath: Assets/Dracula/sadVamp.png
+  - path: Temp\UnityTempFile-75e03984f87e55e42a4c34b4950e221a
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-75e03984f87e55e42a4c34b4950e221a
+    projectPath: Temp\UnityTempFile-75e03984f87e55e42a4c34b4950e221a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Dracula/sadVamp.png.meta
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Dracula/sadVamp.png.meta
-    projectPath: Assets/Dracula/sadVamp.png.meta
+  - path: Temp\UnityTempFile-7da3f7a6971a4a54e90c21a3ec2657ca
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-7da3f7a6971a4a54e90c21a3ec2657ca
+    projectPath: Temp\UnityTempFile-7da3f7a6971a4a54e90c21a3ec2657ca
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Plugins.meta
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Plugins.meta
-    projectPath: Assets/Plugins.meta
+  - path: Temp\UnityTempFile-7dd8999a4981bd945a6173f37afb736a
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-7dd8999a4981bd945a6173f37afb736a
+    projectPath: Temp\UnityTempFile-7dd8999a4981bd945a6173f37afb736a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Plugins/GitHub.meta
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Plugins/GitHub.meta
-    projectPath: Assets/Plugins/GitHub.meta
+  - path: Temp\UnityTempFile-7e327676173b90d4bb28897cad2fa29f
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-7e327676173b90d4bb28897cad2fa29f
+    projectPath: Temp\UnityTempFile-7e327676173b90d4bb28897cad2fa29f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Plugins/GitHub/Editor.meta
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Plugins/GitHub/Editor.meta
-    projectPath: Assets/Plugins/GitHub/Editor.meta
+  - path: Temp\UnityTempFile-8071584fd6828c34283edff942c90eec
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-8071584fd6828c34283edff942c90eec
+    projectPath: Temp\UnityTempFile-8071584fd6828c34283edff942c90eec
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
-    projectPath: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+  - path: Temp\UnityTempFile-81f88495c19bb344fab705d93fa55929
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-81f88495c19bb344fab705d93fa55929
+    projectPath: Temp\UnityTempFile-81f88495c19bb344fab705d93fa55929
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
-    projectPath: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+  - path: Temp\UnityTempFile-8309d808733d2ab428c47a46fd4c1c8b
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-8309d808733d2ab428c47a46fd4c1c8b
+    projectPath: Temp\UnityTempFile-8309d808733d2ab428c47a46fd4c1c8b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Plugins/GitHub/Editor/big-logo@2x.png
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Plugins/GitHub/Editor/big-logo@2x.png
-    projectPath: Assets/Plugins/GitHub/Editor/big-logo@2x.png
+  - path: Temp\UnityTempFile-85e9f30808167454895e97c84a61d6c0
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-85e9f30808167454895e97c84a61d6c0
+    projectPath: Temp\UnityTempFile-85e9f30808167454895e97c84a61d6c0
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
-    projectPath: Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+  - path: Temp\UnityTempFile-862075632465986429c4b378651f480a
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-862075632465986429c4b378651f480a
+    projectPath: Temp\UnityTempFile-862075632465986429c4b378651f480a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Plugins/GitHub/Editor/credits.txt
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Plugins/GitHub/Editor/credits.txt
-    projectPath: Assets/Plugins/GitHub/Editor/credits.txt
+  - path: Temp\UnityTempFile-87ae3c4fd142b32449d81fcb2756e10c
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-87ae3c4fd142b32449d81fcb2756e10c
+    projectPath: Temp\UnityTempFile-87ae3c4fd142b32449d81fcb2756e10c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Plugins/GitHub/Editor/credits.txt.meta
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Plugins/GitHub/Editor/credits.txt.meta
-    projectPath: Assets/Plugins/GitHub/Editor/credits.txt.meta
+  - path: Temp\UnityTempFile-8a7a45f36a4e3734fb4d50b0fd49418d
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-8a7a45f36a4e3734fb4d50b0fd49418d
+    projectPath: Temp\UnityTempFile-8a7a45f36a4e3734fb4d50b0fd49418d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Plugins/GitHub/Editor/eula.txt
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Plugins/GitHub/Editor/eula.txt
-    projectPath: Assets/Plugins/GitHub/Editor/eula.txt
+  - path: Temp\UnityTempFile-8b43c1e1fbbf90949957f2ea1af5a42c
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-8b43c1e1fbbf90949957f2ea1af5a42c
+    projectPath: Temp\UnityTempFile-8b43c1e1fbbf90949957f2ea1af5a42c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Plugins/GitHub/Editor/eula.txt.meta
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Plugins/GitHub/Editor/eula.txt.meta
-    projectPath: Assets/Plugins/GitHub/Editor/eula.txt.meta
+  - path: Temp\UnityTempFile-8c799be04d4b0db47b909faf7c8640b5
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-8c799be04d4b0db47b909faf7c8640b5
+    projectPath: Temp\UnityTempFile-8c799be04d4b0db47b909faf7c8640b5
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
-    projectPath: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+  - path: Temp\UnityTempFile-8eef46814c97319459a5109cb3f55cfd
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-8eef46814c97319459a5109cb3f55cfd
+    projectPath: Temp\UnityTempFile-8eef46814c97319459a5109cb3f55cfd
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
-    projectPath: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+  - path: Temp\UnityTempFile-90dfbb6d24b9f5d4d998c67b2f859784
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-90dfbb6d24b9f5d4d998c67b2f859784
+    projectPath: Temp\UnityTempFile-90dfbb6d24b9f5d4d998c67b2f859784
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
-    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+  - path: Temp\UnityTempFile-9305bf94f86ae2a4ba27ebb6cbd45b1a
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-9305bf94f86ae2a4ba27ebb6cbd45b1a
+    projectPath: Temp\UnityTempFile-9305bf94f86ae2a4ba27ebb6cbd45b1a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
-    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+  - path: Temp\UnityTempFile-931fdbcd557004d4aa60e33df9c164c3
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-931fdbcd557004d4aa60e33df9c164c3
+    projectPath: Temp\UnityTempFile-931fdbcd557004d4aa60e33df9c164c3
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Plugins/GitHub/Editor/GitHub.Api.dll
-    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+  - path: Temp\UnityTempFile-97aff28d98f1d014c86dfb8591b0f146
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-97aff28d98f1d014c86dfb8591b0f146
+    projectPath: Temp\UnityTempFile-97aff28d98f1d014c86dfb8591b0f146
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
-    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+  - path: Temp\UnityTempFile-982eec6bafbfd7e449730c1041de17c4
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-982eec6bafbfd7e449730c1041de17c4
+    projectPath: Temp\UnityTempFile-982eec6bafbfd7e449730c1041de17c4
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
-    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+  - path: Temp\UnityTempFile-985e68da9a9c7df42a185f87bf5466fa
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-985e68da9a9c7df42a185f87bf5466fa
+    projectPath: Temp\UnityTempFile-985e68da9a9c7df42a185f87bf5466fa
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
-    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+  - path: Temp\UnityTempFile-9934cdc1da56b18479c35d9e4c8d17c6
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-9934cdc1da56b18479c35d9e4c8d17c6
+    projectPath: Temp\UnityTempFile-9934cdc1da56b18479c35d9e4c8d17c6
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
-    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+  - path: Temp\UnityTempFile-9936bfc39ad9c7843ad0ebf529fa4c18
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-9936bfc39ad9c7843ad0ebf529fa4c18
+    projectPath: Temp\UnityTempFile-9936bfc39ad9c7843ad0ebf529fa4c18
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
-    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+  - path: Temp\UnityTempFile-9ecc09af9720c2a4f920f1c4e2bd7c38
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-9ecc09af9720c2a4f920f1c4e2bd7c38
+    projectPath: Temp\UnityTempFile-9ecc09af9720c2a4f920f1c4e2bd7c38
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
-    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+  - path: Temp\UnityTempFile-9f0b4eac3a89c6641b72005462f03741
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-9f0b4eac3a89c6641b72005462f03741
+    projectPath: Temp\UnityTempFile-9f0b4eac3a89c6641b72005462f03741
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
-    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+  - path: Temp\UnityTempFile-a1579e859e2fa174fa81e70c5391cae0
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-a1579e859e2fa174fa81e70c5391cae0
+    projectPath: Temp\UnityTempFile-a1579e859e2fa174fa81e70c5391cae0
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll
-    projectPath: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll
+  - path: Temp\UnityTempFile-a173b77990a3cfd4e9ee4c70c78f4fe1
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-a173b77990a3cfd4e9ee4c70c78f4fe1
+    projectPath: Temp\UnityTempFile-a173b77990a3cfd4e9ee4c70c78f4fe1
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.meta
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.meta
-    projectPath: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.meta
+  - path: Temp\UnityTempFile-a2900a6a17d070a40a6338fc55aa3c23
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-a2900a6a17d070a40a6338fc55aa3c23
+    projectPath: Temp\UnityTempFile-a2900a6a17d070a40a6338fc55aa3c23
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Plugins/GitHub/Editor/libsfw.bundle
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Plugins/GitHub/Editor/libsfw.bundle
-    projectPath: Assets/Plugins/GitHub/Editor/libsfw.bundle
+  - path: Temp\UnityTempFile-a2f390227dee02242920cffb550b0db4
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-a2f390227dee02242920cffb550b0db4
+    projectPath: Temp\UnityTempFile-a2f390227dee02242920cffb550b0db4
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
-    projectPath: Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+  - path: Temp\UnityTempFile-aad82ca03dea4b84887757d2f2475ce6
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-aad82ca03dea4b84887757d2f2475ce6
+    projectPath: Temp\UnityTempFile-aad82ca03dea4b84887757d2f2475ce6
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Plugins/GitHub/Editor/libsfw.so
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Plugins/GitHub/Editor/libsfw.so
-    projectPath: Assets/Plugins/GitHub/Editor/libsfw.so
+  - path: Temp\UnityTempFile-ac121006625cbac478558f59aa543ccb
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-ac121006625cbac478558f59aa543ccb
+    projectPath: Temp\UnityTempFile-ac121006625cbac478558f59aa543ccb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Plugins/GitHub/Editor/libsfw.so.meta
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Plugins/GitHub/Editor/libsfw.so.meta
-    projectPath: Assets/Plugins/GitHub/Editor/libsfw.so.meta
+  - path: Temp\UnityTempFile-ac821bf82c0beb149b48b76c4f306e59
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-ac821bf82c0beb149b48b76c4f306e59
+    projectPath: Temp\UnityTempFile-ac821bf82c0beb149b48b76c4f306e59
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Plugins/GitHub/Editor/Mono.Posix.dll
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Plugins/GitHub/Editor/Mono.Posix.dll
-    projectPath: Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+  - path: Temp\UnityTempFile-aca2646e508118642a66dd47b1204e80
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-aca2646e508118642a66dd47b1204e80
+    projectPath: Temp\UnityTempFile-aca2646e508118642a66dd47b1204e80
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
-    projectPath: Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+  - path: Temp\UnityTempFile-ace111824f101ed489386ac01c02ff25
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-ace111824f101ed489386ac01c02ff25
+    projectPath: Temp\UnityTempFile-ace111824f101ed489386ac01c02ff25
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Plugins/GitHub/Editor/QuickGuide.pdf
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Plugins/GitHub/Editor/QuickGuide.pdf
-    projectPath: Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+  - path: Temp\UnityTempFile-b2c8094bc5e1d8445a106e79a7599659
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-b2c8094bc5e1d8445a106e79a7599659
+    projectPath: Temp\UnityTempFile-b2c8094bc5e1d8445a106e79a7599659
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
-    projectPath: Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+  - path: Temp\UnityTempFile-b3e2d3c2ff365ca4f90c72d6fa2e307e
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-b3e2d3c2ff365ca4f90c72d6fa2e307e
+    projectPath: Temp\UnityTempFile-b3e2d3c2ff365ca4f90c72d6fa2e307e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
-    projectPath: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+  - path: Temp\UnityTempFile-b4a5cdf78796528419bea50c16dd1727
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-b4a5cdf78796528419bea50c16dd1727
+    projectPath: Temp\UnityTempFile-b4a5cdf78796528419bea50c16dd1727
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
-    projectPath: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+  - path: Temp\UnityTempFile-b5cfc505adbcedb47a9abf4ba495c5c7
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-b5cfc505adbcedb47a9abf4ba495c5c7
+    projectPath: Temp\UnityTempFile-b5cfc505adbcedb47a9abf4ba495c5c7
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Plugins/GitHub/Editor/sfw.net.dll
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Plugins/GitHub/Editor/sfw.net.dll
-    projectPath: Assets/Plugins/GitHub/Editor/sfw.net.dll
+  - path: Temp\UnityTempFile-b683ec6c2e87a934bbbd0dd57cc08e77
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-b683ec6c2e87a934bbbd0dd57cc08e77
+    projectPath: Temp\UnityTempFile-b683ec6c2e87a934bbbd0dd57cc08e77
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
-    projectPath: Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+  - path: Temp\UnityTempFile-b7e308b932618d2449befee7745093ba
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-b7e308b932618d2449befee7745093ba
+    projectPath: Temp\UnityTempFile-b7e308b932618d2449befee7745093ba
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Plugins/GitHub/Editor/System.Threading.dll
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Plugins/GitHub/Editor/System.Threading.dll
-    projectPath: Assets/Plugins/GitHub/Editor/System.Threading.dll
+  - path: Temp\UnityTempFile-b9055fba68c2eb149b6315918986a33d
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-b9055fba68c2eb149b6315918986a33d
+    projectPath: Temp\UnityTempFile-b9055fba68c2eb149b6315918986a33d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
-    projectPath: Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+  - path: Temp\UnityTempFile-b94d461ca6777c149acbf8d1daeaff6b
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-b94d461ca6777c149acbf8d1daeaff6b
+    projectPath: Temp\UnityTempFile-b94d461ca6777c149acbf8d1daeaff6b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
-    projectPath: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+  - path: Temp\UnityTempFile-ba3c6eb01c1bb1c4b93db1de52bdb959
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-ba3c6eb01c1bb1c4b93db1de52bdb959
+    projectPath: Temp\UnityTempFile-ba3c6eb01c1bb1c4b93db1de52bdb959
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs.meta
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs.meta
-    projectPath: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs.meta
+  - path: Temp\UnityTempFile-bd700cfaf6d390a4b9825c4a526c745d
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-bd700cfaf6d390a4b9825c4a526c745d
+    projectPath: Temp\UnityTempFile-bd700cfaf6d390a4b9825c4a526c745d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Plugins/GitHub/Editor/x64.meta
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Plugins/GitHub/Editor/x64.meta
-    projectPath: Assets/Plugins/GitHub/Editor/x64.meta
+  - path: Temp\UnityTempFile-bfdbab31c09c93f41bd454315564cf52
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-bfdbab31c09c93f41bd454315564cf52
+    projectPath: Temp\UnityTempFile-bfdbab31c09c93f41bd454315564cf52
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
-    projectPath: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+  - path: Temp\UnityTempFile-c0d5479cf5118a54fb98ab9e5813be9c
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-c0d5479cf5118a54fb98ab9e5813be9c
+    projectPath: Temp\UnityTempFile-c0d5479cf5118a54fb98ab9e5813be9c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
-    projectPath: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+  - path: Temp\UnityTempFile-c1203b8ef1429a145ad01099fcaa3c6b
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-c1203b8ef1429a145ad01099fcaa3c6b
+    projectPath: Temp\UnityTempFile-c1203b8ef1429a145ad01099fcaa3c6b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
-    projectPath: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+  - path: Temp\UnityTempFile-c1228de8b2abcb34ab1cbe70dbd1f081
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-c1228de8b2abcb34ab1cbe70dbd1f081
+    projectPath: Temp\UnityTempFile-c1228de8b2abcb34ab1cbe70dbd1f081
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
-    projectPath: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+  - path: Temp\UnityTempFile-c168ef941d4484c43be2bfb055fba6a0
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-c168ef941d4484c43be2bfb055fba6a0
+    projectPath: Temp\UnityTempFile-c168ef941d4484c43be2bfb055fba6a0
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Plugins/GitHub/Editor/x86.meta
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Plugins/GitHub/Editor/x86.meta
-    projectPath: Assets/Plugins/GitHub/Editor/x86.meta
+  - path: Temp\UnityTempFile-c2deda4dffea9304a966ee5c38debf6e
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-c2deda4dffea9304a966ee5c38debf6e
+    projectPath: Temp\UnityTempFile-c2deda4dffea9304a966ee5c38debf6e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
-    projectPath: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+  - path: Temp\UnityTempFile-c3711c64dbeae1f498167cfd3c233983
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-c3711c64dbeae1f498167cfd3c233983
+    projectPath: Temp\UnityTempFile-c3711c64dbeae1f498167cfd3c233983
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
-    projectPath: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+  - path: Temp\UnityTempFile-c6508c4b1c385cc4fb8a1d315dbd11c4
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-c6508c4b1c385cc4fb8a1d315dbd11c4
+    projectPath: Temp\UnityTempFile-c6508c4b1c385cc4fb8a1d315dbd11c4
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
-    projectPath: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+  - path: Temp\UnityTempFile-ccd30b1f4806ae64f89fc28f8b2d5bb4
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-ccd30b1f4806ae64f89fc28f8b2d5bb4
+    projectPath: Temp\UnityTempFile-ccd30b1f4806ae64f89fc28f8b2d5bb4
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
-    projectPath: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+  - path: Temp\UnityTempFile-d2ad16dd2efb99c46a9c0d83b0b41456
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-d2ad16dd2efb99c46a9c0d83b0b41456
+    projectPath: Temp\UnityTempFile-d2ad16dd2efb99c46a9c0d83b0b41456
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Scenes.meta
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Scenes.meta
-    projectPath: Assets/Scenes.meta
+  - path: Temp\UnityTempFile-d3430ae30d80ee242a2ac940a7a3abce
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-d3430ae30d80ee242a2ac940a7a3abce
+    projectPath: Temp\UnityTempFile-d3430ae30d80ee242a2ac940a7a3abce
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Scenes/SampleScene.unity
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Scenes/SampleScene.unity
-    projectPath: Assets/Scenes/SampleScene.unity
+  - path: Temp\UnityTempFile-d3b3bbb2f4be03d44a9fc75421f8d418
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-d3b3bbb2f4be03d44a9fc75421f8d418
+    projectPath: Temp\UnityTempFile-d3b3bbb2f4be03d44a9fc75421f8d418
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Scenes/SampleScene.unity.meta
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Scenes/SampleScene.unity.meta
-    projectPath: Assets/Scenes/SampleScene.unity.meta
+  - path: Temp\UnityTempFile-d5b9261dd9a607e4a99d069ef6519a56
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-d5b9261dd9a607e4a99d069ef6519a56
+    projectPath: Temp\UnityTempFile-d5b9261dd9a607e4a99d069ef6519a56
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Scripts.meta
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Scripts.meta
-    projectPath: Assets/Scripts.meta
+  - path: Temp\UnityTempFile-d5daf586c20a1da4b890bb4dce77853e
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-d5daf586c20a1da4b890bb4dce77853e
+    projectPath: Temp\UnityTempFile-d5daf586c20a1da4b890bb4dce77853e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Scripts/Dracula.cs
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Scripts/Dracula.cs
-    projectPath: Assets/Scripts/Dracula.cs
+  - path: Temp\UnityTempFile-d90f7285a261b9a42ae1925a556a5b1a
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-d90f7285a261b9a42ae1925a556a5b1a
+    projectPath: Temp\UnityTempFile-d90f7285a261b9a42ae1925a556a5b1a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Scripts/Dracula.cs.meta
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Assets/Scripts/Dracula.cs.meta
-    projectPath: Assets/Scripts/Dracula.cs.meta
+  - path: Temp\UnityTempFile-dce993a94d1cac14eadcadaf913baa5e
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-dce993a94d1cac14eadcadaf913baa5e
+    projectPath: Temp\UnityTempFile-dce993a94d1cac14eadcadaf913baa5e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Packages/manifest.json
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Packages/manifest.json
-    projectPath: Packages/manifest.json
+  - path: Temp\UnityTempFile-ddb7bc6b83d26a84d9d68a7e74fbf0dd
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-ddb7bc6b83d26a84d9d68a7e74fbf0dd
+    projectPath: Temp\UnityTempFile-ddb7bc6b83d26a84d9d68a7e74fbf0dd
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Packages/packages-lock.json
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/Packages/packages-lock.json
-    projectPath: Packages/packages-lock.json
+  - path: Temp\UnityTempFile-ddccc6181d940b244b6e3160fe43afef
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-ddccc6181d940b244b6e3160fe43afef
+    projectPath: Temp\UnityTempFile-ddccc6181d940b244b6e3160fe43afef
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: ProjectSettings/AudioManager.asset
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/ProjectSettings/AudioManager.asset
-    projectPath: ProjectSettings/AudioManager.asset
+  - path: Temp\UnityTempFile-e022c6f15bbd778479b87ce5aa3b3e47
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-e022c6f15bbd778479b87ce5aa3b3e47
+    projectPath: Temp\UnityTempFile-e022c6f15bbd778479b87ce5aa3b3e47
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: ProjectSettings/ClusterInputManager.asset
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/ProjectSettings/ClusterInputManager.asset
-    projectPath: ProjectSettings/ClusterInputManager.asset
+  - path: Temp\UnityTempFile-e09ce8e85fb17cc42b462ebc670b56ee
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-e09ce8e85fb17cc42b462ebc670b56ee
+    projectPath: Temp\UnityTempFile-e09ce8e85fb17cc42b462ebc670b56ee
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: ProjectSettings/DynamicsManager.asset
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/ProjectSettings/DynamicsManager.asset
-    projectPath: ProjectSettings/DynamicsManager.asset
+  - path: Temp\UnityTempFile-e0d07375ee2a8a64f840a152beafc6c9
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-e0d07375ee2a8a64f840a152beafc6c9
+    projectPath: Temp\UnityTempFile-e0d07375ee2a8a64f840a152beafc6c9
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: ProjectSettings/EditorBuildSettings.asset
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/ProjectSettings/EditorBuildSettings.asset
-    projectPath: ProjectSettings/EditorBuildSettings.asset
+  - path: Temp\UnityTempFile-e39fd135335549f479df92ba535d31a9
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-e39fd135335549f479df92ba535d31a9
+    projectPath: Temp\UnityTempFile-e39fd135335549f479df92ba535d31a9
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: ProjectSettings/EditorSettings.asset
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/ProjectSettings/EditorSettings.asset
-    projectPath: ProjectSettings/EditorSettings.asset
+  - path: Temp\UnityTempFile-e64ef6a51ed222344adffd9957d964a1
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-e64ef6a51ed222344adffd9957d964a1
+    projectPath: Temp\UnityTempFile-e64ef6a51ed222344adffd9957d964a1
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: ProjectSettings/GraphicsSettings.asset
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/ProjectSettings/GraphicsSettings.asset
-    projectPath: ProjectSettings/GraphicsSettings.asset
+  - path: Temp\UnityTempFile-e7cd9a390ad65e8468223f27bd4bd8e8
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-e7cd9a390ad65e8468223f27bd4bd8e8
+    projectPath: Temp\UnityTempFile-e7cd9a390ad65e8468223f27bd4bd8e8
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: ProjectSettings/InputManager.asset
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/ProjectSettings/InputManager.asset
-    projectPath: ProjectSettings/InputManager.asset
+  - path: Temp\UnityTempFile-e8b06976a3356ac41bcea79d8dab5482
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-e8b06976a3356ac41bcea79d8dab5482
+    projectPath: Temp\UnityTempFile-e8b06976a3356ac41bcea79d8dab5482
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: ProjectSettings/NavMeshAreas.asset
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/ProjectSettings/NavMeshAreas.asset
-    projectPath: ProjectSettings/NavMeshAreas.asset
+  - path: Temp\UnityTempFile-f035a7c9271210e458b0a2f3f16f8a19
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-f035a7c9271210e458b0a2f3f16f8a19
+    projectPath: Temp\UnityTempFile-f035a7c9271210e458b0a2f3f16f8a19
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: ProjectSettings/NetworkManager.asset
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/ProjectSettings/NetworkManager.asset
-    projectPath: ProjectSettings/NetworkManager.asset
+  - path: Temp\UnityTempFile-f221c187c8dddf74293c2c4e82655d1b
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-f221c187c8dddf74293c2c4e82655d1b
+    projectPath: Temp\UnityTempFile-f221c187c8dddf74293c2c4e82655d1b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: ProjectSettings/Physics2DSettings.asset
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/ProjectSettings/Physics2DSettings.asset
-    projectPath: ProjectSettings/Physics2DSettings.asset
+  - path: Temp\UnityTempFile-f5f29d1fc05f0f841bc58640c3c2dcdc
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-f5f29d1fc05f0f841bc58640c3c2dcdc
+    projectPath: Temp\UnityTempFile-f5f29d1fc05f0f841bc58640c3c2dcdc
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: ProjectSettings/PresetManager.asset
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/ProjectSettings/PresetManager.asset
-    projectPath: ProjectSettings/PresetManager.asset
+  - path: Temp\UnityTempFile-f7c7af09925a545428c1468ab5628664
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-f7c7af09925a545428c1468ab5628664
+    projectPath: Temp\UnityTempFile-f7c7af09925a545428c1468ab5628664
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: ProjectSettings/ProjectSettings.asset
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/ProjectSettings/ProjectSettings.asset
-    projectPath: ProjectSettings/ProjectSettings.asset
+  - path: Temp\UnityTempFile-f9ca535cea22ef34297845a8625a09ac
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-f9ca535cea22ef34297845a8625a09ac
+    projectPath: Temp\UnityTempFile-f9ca535cea22ef34297845a8625a09ac
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: ProjectSettings/ProjectVersion.txt
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/ProjectSettings/ProjectVersion.txt
-    projectPath: ProjectSettings/ProjectVersion.txt
+  - path: Temp\UnityTempFile-f9d8ed8c5d77b5649a8c120234a27a7f
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-f9d8ed8c5d77b5649a8c120234a27a7f
+    projectPath: Temp\UnityTempFile-f9d8ed8c5d77b5649a8c120234a27a7f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: ProjectSettings/QualitySettings.asset
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/ProjectSettings/QualitySettings.asset
-    projectPath: ProjectSettings/QualitySettings.asset
+  - path: Temp\UnityTempFile-fa7da51cd109a5642a8c5a7e6a8e5a18
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-fa7da51cd109a5642a8c5a7e6a8e5a18
+    projectPath: Temp\UnityTempFile-fa7da51cd109a5642a8c5a7e6a8e5a18
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: ProjectSettings/TagManager.asset
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/ProjectSettings/TagManager.asset
-    projectPath: ProjectSettings/TagManager.asset
+  - path: Temp\UnityTempFile-fb241e76291db8f4da4fe43550f93d52
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-fb241e76291db8f4da4fe43550f93d52
+    projectPath: Temp\UnityTempFile-fb241e76291db8f4da4fe43550f93d52
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: ProjectSettings/TimeManager.asset
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/ProjectSettings/TimeManager.asset
-    projectPath: ProjectSettings/TimeManager.asset
+  - path: Temp\UnityTempFile-fbe7472b809ae734d9dc583094f372ba
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-fbe7472b809ae734d9dc583094f372ba
+    projectPath: Temp\UnityTempFile-fbe7472b809ae734d9dc583094f372ba
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: ProjectSettings/UnityConnectSettings.asset
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/ProjectSettings/UnityConnectSettings.asset
-    projectPath: ProjectSettings/UnityConnectSettings.asset
+  - path: Temp\UnityTempFile-ffbf42feecbda744d84e74f4e3ba3d09
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-ffbf42feecbda744d84e74f4e3ba3d09
+    projectPath: Temp\UnityTempFile-ffbf42feecbda744d84e74f4e3ba3d09
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: ProjectSettings/VFXManager.asset
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/ProjectSettings/VFXManager.asset
-    projectPath: ProjectSettings/VFXManager.asset
+  - path: Temp\UnityTempFile-ffca033cabe42c44bac2425cc182bad2
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-ffca033cabe42c44bac2425cc182bad2
+    projectPath: Temp\UnityTempFile-ffca033cabe42c44bac2425cc182bad2
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: ProjectSettings/XRSettings.asset
-    fullPath: /Users/nirranjanakilan/Documents/Unity Projects/Team PogChamp (HackUTD
-      GameJam)/ProjectSettings/XRSettings.asset
-    projectPath: ProjectSettings/XRSettings.asset
+  - path: Temp\UnityTempFile-ffe3820e2db2a404cac486c0b3b4ee6c
+    fullPath: C:\Users\nikhi\New Unity Project\Temp\UnityTempFile-ffe3820e2db2a404cac486c0b3b4ee6c
+    projectPath: Temp\UnityTempFile-ffe3820e2db2a404cac486c0b3b4ee6c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
