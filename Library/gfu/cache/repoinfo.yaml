@@ -13,26 +13,26 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-10-27T20:24:01.835-05:00
-  initializedAtString: 2020-10-27T20:24:01.835-05:00
+  lastUpdatedAtString: 2020-10-28T00:11:31.365-05:00
+  initializedAtString: 2020-10-28T00:02:12.856-05:00
   currentGitRemote:
     name: origin
-    url: https://github.com/anirranjan/hackutd-gamejam.git
+    url: https://github.com/NikhilNarvekar123/hackutd-gamejam
     login: 
     user: 
     host: 
     function: 0
     token: 
   currentGitBranch:
-    name: master
-    tracking: origin/master
+    name: nik
+    tracking: origin/nik
   currentConfigBranch:
-    name: master
+    name: nik
     remote:
       name: origin
-      url: https://github.com/anirranjan/hackutd-gamejam.git
-    trackingBranch: master
+      url: https://github.com/NikhilNarvekar123/hackutd-gamejam
+    trackingBranch: nik
   currentConfigRemote:
     name: origin
-    url: https://github.com/anirranjan/hackutd-gamejam.git
+    url: https://github.com/NikhilNarvekar123/hackutd-gamejam
   currentHead: 
