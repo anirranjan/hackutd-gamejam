@@ -13,13 +13,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2020-10-28T13:28:44.792-05:00
-  initializedAtString: 2020-10-28T13:17:09.007-05:00
+  lastUpdatedAtString: 2020-10-30T04:03:59.607-05:00
+  initializedAtString: 2020-10-30T00:29:04.855-05:00
   localBranches:
+  - name: main
+    tracking: origin/main
   - name: master
     tracking: 
-  - name: nik
-    tracking: origin/nik
   remoteBranches:
   - name: origin/main
     tracking: '[None]'
@@ -27,7 +27,7 @@ MonoBehaviour:
     tracking: '[None]'
   remotes:
   - name: origin
-    url: https://github.com/NikhilNarvekar123/hackutd-gamejam
+    url: https://github.com/NikhilNarvekar123/hackutd-gamejam.git
     login: 
     user: 
     host: 
@@ -35,19 +35,19 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
+    - main
     - master
-    - nik
     values:
+    - name: main
+      remote:
+        name: origin
+        url: https://github.com/NikhilNarvekar123/hackutd-gamejam.git
+      trackingBranch: main
     - name: master
       remote:
         name: 
         url: 
       trackingBranch: 
-    - name: nik
-      remote:
-        name: origin
-        url: https://github.com/NikhilNarvekar123/hackutd-gamejam
-      trackingBranch: nik
   remoteConfigBranches:
     keys:
     - origin
@@ -60,16 +60,16 @@ MonoBehaviour:
       - name: main
         remote:
           name: origin
-          url: https://github.com/NikhilNarvekar123/hackutd-gamejam
+          url: https://github.com/NikhilNarvekar123/hackutd-gamejam.git
         trackingBranch: 
       - name: nik
         remote:
           name: origin
-          url: https://github.com/NikhilNarvekar123/hackutd-gamejam
+          url: https://github.com/NikhilNarvekar123/hackutd-gamejam.git
         trackingBranch: 
   configRemotes:
     keys:
     - origin
     values:
     - name: origin
-      url: https://github.com/NikhilNarvekar123/hackutd-gamejam
+      url: https://github.com/NikhilNarvekar123/hackutd-gamejam.git
