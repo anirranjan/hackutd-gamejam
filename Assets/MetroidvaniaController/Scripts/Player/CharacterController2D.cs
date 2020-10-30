@@ -30,6 +30,7 @@ public class CharacterController2D : MonoBehaviour
 	private bool canCheck = false; //For check if player is wallsliding
 
 	public float life = 10f; //Life of the player
+	public int curHealth = 5;
 	public bool invincible = false; //If player can die
 	private bool canMove = true; //If player can move
 
