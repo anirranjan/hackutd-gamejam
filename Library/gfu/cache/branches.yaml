@@ -13,15 +13,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2020-10-30T04:03:59.607-05:00
-  initializedAtString: 2020-10-30T00:29:04.855-05:00
+  lastUpdatedAtString: 2020-10-30T18:27:22.143-05:00
+  initializedAtString: 2020-10-30T18:27:22.098-05:00
   localBranches:
   - name: main
     tracking: origin/main
   - name: master
-    tracking: 
+    tracking: origin/master
   remoteBranches:
   - name: origin/main
+    tracking: '[None]'
+  - name: origin/master
     tracking: '[None]'
   - name: origin/nik
     tracking: '[None]'
@@ -45,19 +47,25 @@ MonoBehaviour:
       trackingBranch: main
     - name: master
       remote:
-        name: 
-        url: 
-      trackingBranch: 
+        name: origin
+        url: https://github.com/NikhilNarvekar123/hackutd-gamejam.git
+      trackingBranch: master
   remoteConfigBranches:
     keys:
     - origin
     subKeys:
     - Values:
       - main
+      - master
       - nik
     subKeyValues:
     - Values:
       - name: main
+        remote:
+          name: origin
+          url: https://github.com/NikhilNarvekar123/hackutd-gamejam.git
+        trackingBranch: 
+      - name: master
         remote:
           name: origin
           url: https://github.com/NikhilNarvekar123/hackutd-gamejam.git
