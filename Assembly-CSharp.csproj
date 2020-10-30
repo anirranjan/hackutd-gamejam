@@ -36,6 +36,7 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\GhostMovement.cs" />
      <Compile Include="Assets\MetroidvaniaController\Animation\Scripts\EndParamBehaviour.cs" />
      <Compile Include="Assets\MetroidvaniaController\Animation\Scripts\JumpStateBehaviour.cs" />
      <Compile Include="Assets\MetroidvaniaController\Animation\Scripts\PlaySoundBehaviour.cs" />
